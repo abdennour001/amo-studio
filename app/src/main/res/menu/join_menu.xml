@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.home.activities.JoinActivity">
+
+    <item
+        android:id="@+id/action_return"
+        android:title="Return to main menu"
+        android:icon="@drawable/ic_subdirectory_arrow_left_black_24dp"
+        app:showAsAction="always"
+        />
+</menu>
